@@ -1,3 +1,9 @@
+luajit (2.1.20210510-1) focal; urgency=medium
+
+  * Rebuild with latest openresty version 2.1.20210510
+
+ -- Kevin Roy <kiniou@gmail.com>  Wed, 04 Nov 2020 18:04:37 +0100
+
 luajit (2.1.20190530-1~ods1) buster; urgency=medium
 
   * Rebuild for debian buster release
